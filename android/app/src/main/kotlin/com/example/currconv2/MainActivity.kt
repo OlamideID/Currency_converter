@@ -1,0 +1,5 @@
+package com.example.currconv2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
