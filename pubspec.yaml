@@ -37,6 +37,9 @@ dependencies:
   dropdown_button2: ^2.3.9
   http: ^1.2.2
   lottie: ^3.1.2
+  device_preview: ^1.2.0
+  fl_chart: ^0.69.2
+  shared_preferences: ^2.3.5
 
 dev_dependencies:
   flutter_test:
